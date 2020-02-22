@@ -3,6 +3,8 @@
 ## Description:
 This repository is a combination of scripts generated throughout my Master's thesis, entitled "An extended-2D CNN approach for diagnosis of Alzheimer's disease through structural MRI". This work yielded the following two distinct publications.
 
+![image](https://github.com/mariecpereira/extension-2D-CNN/blob/master/images/25D_modf1.png)
+
 The first publication summarizes an ensemble of different architectures taking into account the coordinates of each patch as additional information for the network:
 
 - Pereira, M. et al., An extended-2D CNN approach for diagnosis of Alzheimer's disease through structural MRI. In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting and Exhibition 2019
