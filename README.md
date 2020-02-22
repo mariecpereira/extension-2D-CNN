@@ -11,7 +11,7 @@ This work summarizes an end-to-end solution for classification, using only exten
 
 - Pereira, M. et al., An extended-2D CNN for multiclass Alzheimer's Disease diagnosis through Structural MRI. In SPIE Medical Imaging 2020: Computer-Aided Diagnosis
 
-For a full description of the methods, you may also check the full thesis [here](http://repositorio.unicamp.br/bitstream/REPOSIP/334116/1/Pereira_MarianaEugeniaDeCarvalho_M.pdf).
+For a full description of the methods, you may also check the full thesis [here](https://repositorio.unicamp.br/bitstream/REPOSIP/334116/1/Pereira_MarianaEugeniaDeCarvalho_M.pdf).
 
 ## Requirements:
 - Python 3.5.4
