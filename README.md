@@ -5,7 +5,7 @@ This repository is a combination of scripts generated throughout my Master's the
 
 
 In order to extract relevant volumetric information, we proposed the extended-2D data, which is performed in three main steps:
-![image](https://github.com/mariecpereira/extension-2D-CNN/blob/master/images/25D_modf1.png)
+![image](https://github.com/mariecpereira/extension-2D-CNN/blob/master/images/25D_modf1.png =100)
 First, we selected N center slices in the coronal plane, then, every second slice is selected. Secondly, to compose each 3-channel image, we select two more slices spaced by n millimeters. These slices, spaced by n are then the new extended-2D image. For example, if the first selection is the slice 102, then the slice 98 and the slice 106 will compose the new image. By doing this, we take volumetric changes within slices.
 
 
