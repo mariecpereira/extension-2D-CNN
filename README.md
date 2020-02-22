@@ -1,11 +1,15 @@
 # An extended-2D CNN approach for diagnosis of Alzheimer's disease through structural MRI
 
 ## Description:
-This repository is a compile of my Master's thesis "An extended-2D CNN approach for diagnosis of Alzheimer's disease through structural MRI". Here I
-share the scripts I had programmed to the following publications:
+This repository is a combination of scripts generated throughout my Master's thesis, entitled "An extended-2D CNN approach for diagnosis of Alzheimer's disease through structural MRI". This work yielded the following two distinct publications:
 
 - Pereira, M. et al., An extended-2D CNN approach for diagnosis of Alzheimer's disease through structural MRI. In International Society for Magnetic Resonance in Medicine (ISMRM) Annual Meeting and Exhibition 2019
+
+*This work summarizes an ensemble of different architectures taking into account the coordinates of each patch as additional information for the network.
+
 - Pereira, M. et al., An extended-2D CNN for multiclass Alzheimer's Disease diagnosis through Structural MRI. In SPIE Medical Imaging 2020: Computer-Aided Diagnosis
+
+*This work summarizes an end-to-end solution for classification, using only extended-2D data.
 
 ## Requirements:
 - Python 3.5.4
@@ -17,4 +21,4 @@ share the scripts I had programmed to the following publications:
 - Pytorch 1.4
 
 ## Dataset:
-*Data used in preparation of this article were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database (adni.loni.usc.edu). As such, the investigators within the ADNI contributed to the design and implementation of ADNI and/or provided data but did not participate in analysis or writing of this report. A complete listing of ADNI investigators can be found at: http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf
+Data used in preparation of this article were obtained from the Alzheimer's Disease Neuroimaging Initiative (ADNI) database (adni.loni.usc.edu). As such, the investigators within the ADNI contributed to the design and implementation of ADNI and/or provided data but did not participate in analysis or writing of this report. A complete listing of ADNI investigators can be found at: http://adni.loni.usc.edu/wp-content/uploads/how_to_apply/ADNI_Acknowledgement_List.pdf
